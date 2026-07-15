@@ -58,6 +58,8 @@ button:hover {
 }
 
 
+
+
 form {
     width: 400px;
     margin: 30px auto;      
@@ -92,7 +94,7 @@ select {
 
 input[type="radio"],
 input[type="checkbox"] {
-    width: auto;
+    width: 20px;
     margin-right: 5px;
 }
 
@@ -112,10 +114,15 @@ input[type="reset"] {
     cursor: pointer;
 }
 
-input[type="submit"]:hover {
-    background-color: darkgreen;
+#submit {
+    display: block;
+    margin: 20px auto;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
 }
 
-input[type="reset"]:hover {
-    background-color: darkred;
-}
