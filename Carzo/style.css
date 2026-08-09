@@ -33,7 +33,6 @@ header{
     color:#ffcc00;
 }
 
-/* Navigation */
 
 nav ul{
     list-style:none;
@@ -55,7 +54,6 @@ nav ul li a:hover{
     color:#ffcc00;
 }
 
-/* Hero Section */
 
 .hero{
     width:100%;
@@ -69,7 +67,6 @@ nav ul li a:hover{
     align-items:center;
 }
 
-/* Dark Overlay */
 
 .overlay{
     background:rgba(0,0,0,0.5);
@@ -83,7 +80,6 @@ nav ul li a:hover{
     padding-left:80px;
 }
 
-/* Hero Heading */
 
 .overlay h2{
     color:white;
@@ -91,7 +87,6 @@ nav ul li a:hover{
     margin-bottom:20px;
 }
 
-/* Hero Paragraph */
 
 .overlay p{
     color:white;
@@ -101,7 +96,6 @@ nav ul li a:hover{
     margin-bottom:30px;
 }
 
-/* Button */
 
 .btn{
     width:180px;
@@ -125,7 +119,6 @@ nav ul li a:hover{
     color:white;
 }
 
-/* About Section */
 
 .about{
     padding:70px;
@@ -146,7 +139,6 @@ nav ul li a:hover{
     color:#555;
 }
 
-/* Footer */
 
 footer{
     background:#111;
